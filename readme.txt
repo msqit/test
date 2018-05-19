@@ -1,1 +1,1 @@
-master modify commit
+Creating a new branch is quick & simple.
